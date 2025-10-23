@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/INDIVIDUAL/INDIVIDUAL.iml" filepath="$PROJECT_DIR$/INDIVIDUAL/INDIVIDUAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Protocolo-individual.iml" filepath="$PROJECT_DIR$/.idea/Protocolo-individual.iml" />
+    </modules>
+  </component>
+</project>
